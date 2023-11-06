@@ -1,11 +1,11 @@
 {
-    "name": "responsive_portafolio",
-    "short_name": "responsive_portafolio",
+    "name": "Portafolio",
+    "short_name": "Portafolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "This is my portfolio website",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
