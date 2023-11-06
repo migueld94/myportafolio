@@ -67939,7 +67939,7 @@ $S:0}
 A.aaw.prototype={
 $0(){var s=window
 s.toString
-B.kB.B5(s,"www.linkedin.com/in/miguel-angel-l\xf3pez-delgado-78b5b3241","_blank")},
+B.kB.B5(s,"https://linkedin.com/in/miguel-angel-l\xf3pez-delgado-78b5b3241","_blank")},
 $S:0}
 A.aax.prototype={
 $0(){var s=window
